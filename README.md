@@ -31,3 +31,17 @@ http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/70988.ts
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfmKrDcZLkOQKN8Vu5WM9K016r08OqLOdyPQ&usqp=CAU" group-title="SPORTS",TNT SPORTS 4 FHD
 http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/2689.ts
 
+#EXTINF:-1  tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="SPORTS",SKY SPORTS ACTION
+http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/266010.ts
+#EXTINF:-1  tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="SPORTS",SKY SPORTS ARENA
+http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/266335.ts
+#EXTINF:-1  tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="SPORTS",SKY SPORTS CRICKET
+http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/266333.ts
+#EXTINF:-1  tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="SPORTS",SKY SPORTS F1
+http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/266337.ts
+#EXTINF:-1  tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="SPORTS",SKY SPORTS FOOTBALL
+http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/266338.ts
+#EXTINF:-1  tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="SPORTS",SKY SPORTS MAIN EVENT
+http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/266012.ts
+#EXTINF:-1  tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
+http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/266334.ts
