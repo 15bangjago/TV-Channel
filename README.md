@@ -1,5 +1,9 @@
 # TV-Channel
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4CVzwkW9qPbhoNPzmwv6SG3c0e_XsR-gkXL8kYP5upWFzTpwT0SeVME&s=10" group-title="SPORTS",LIVE: MU vs RANGERS
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/KYCpAzX3zpxrzcwa0L3touFdFScEeyRTcBvT2f6AzS4wQcbcYDG27mk8HF_u-zdlGjd5prPsGdyvgmL49FUbgQV5fQgSCTWTnm9Q8yHpjjMK9dFMk_3slmurE3VN969eK3c1hENRh1SgZ-RbSz7jyIXoASAFO5zJkczzLDK81zg/hls/index.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpc5GSc8sbV_gMqEQmJh_dbTuPDIpAaCbzNQ&s" group-title="SPORTS",HUB PREMIER 1
 http://lucidhosting.xyz:82/live/stillcorene@msn.com/Nwg@QG6C5Dp/292466.ts
